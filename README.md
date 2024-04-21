@@ -38,5 +38,4 @@ Para qualquer feedback ou questões de contato, por favor, envie um email para u
 - marianebswork@gmail.com
 - giovannalunapt@gmail.com
 
-Agradecemos pela visita e esperamos vê-lo em nosso restaurante em breve!
 

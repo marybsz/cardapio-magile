@@ -29,11 +29,11 @@ nav ul li a {
     color: white;
     text-decoration: none;
     padding: 10px;
-    transition: border-bottom 0.3s; /* Suaviza a transição da borda */
+    transition: border-bottom 0.3s;
 }
 
 nav ul li a:hover {
-    border-bottom: 2px solid rgb(194, 253, 115); /* Adiciona a linha abaixo do texto */
+    border-bottom: 2px solid rgb(194, 253, 115);
 }
 
 a {
